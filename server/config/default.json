@@ -1,0 +1,4 @@
+{
+  "serverPort": 5000,
+  "dbURL": "mongodb+srv://Anaray:edge12mind@cloud.o9mnr.mongodb.net/Cloud?retryWrites=true&w=majority"
+}
