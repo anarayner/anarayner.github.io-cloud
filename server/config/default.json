@@ -1,4 +1,4 @@
 {
-  "serverPort": 5000,
-  "dbURL": "mongodb+srv://Anaray:edge12mind@cluster.o9mnr.mongodb.net/Cluster?retryWrites=true&w=majority"
+  "dbURL": "mongodb+srv://Anaray:edge12mind@cluster.o9mnr.mongodb.net/Cluster?retryWrites=true&w=majority",
+  "serverPort": 5000
 }
