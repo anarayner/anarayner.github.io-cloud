@@ -1,4 +1,5 @@
 {
   "dbURL": "mongodb+srv://Anaray:edge12mind@cluster.o9mnr.mongodb.net/Cluster?retryWrites=true&w=majority",
-  "serverPort": 5000
+  "serverPort": 5000,
+  "secretKey": "menr-secret-key"
 }
